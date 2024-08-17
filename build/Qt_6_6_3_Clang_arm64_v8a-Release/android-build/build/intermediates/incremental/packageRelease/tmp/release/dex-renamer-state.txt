@@ -1,0 +1,4 @@
+#Sat Aug 17 00:39:04 HKT 2024
+base.0=F\:\\ku\\QT\\fanpack\\3_4\\three\\one\\build\\Qt_6_6_3_Clang_arm64_v8a-Release\\android-build\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

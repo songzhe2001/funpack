@@ -1,0 +1,12 @@
+org.qtproject.example.one-lifecycle-runtime-2.3.1-0 C:\Users\15658\.gradle\caches\transforms-3\3041f062ae0668b5512922884dfdcb95\transformed\lifecycle-runtime-2.3.1\res
+org.qtproject.example.one-annotation-experimental-1.3.0-1 C:\Users\15658\.gradle\caches\transforms-3\3ea98a6e1db53160b5740f47211ec65c\transformed\annotation-experimental-1.3.0\res
+org.qtproject.example.one-core-1.10.1-2 C:\Users\15658\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\res
+org.qtproject.example.one-java-3 F:\Qt\6.6.3\android_arm64_v8a\src\android\java\res
+org.qtproject.example.one-pngs-4 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\generated\res\pngs\release
+org.qtproject.example.one-resValues-5 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\generated\res\resValues\release
+org.qtproject.example.one-rs-6 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\generated\res\rs\release
+org.qtproject.example.one-mergeReleaseResources-7 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.qtproject.example.one-mergeReleaseResources-8 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.qtproject.example.one-merged_res-9 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\build\intermediates\merged_res\release
+org.qtproject.example.one-android-build-10 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\res
+org.qtproject.example.one-release-11 F:\ku\QT\fanpack\3_4\three\one\build\Qt_6_6_3_Clang_arm64_v8a-Release\android-build\src\release\res
