@@ -1,0 +1,5 @@
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\CMSIS/core_cm33.h:2587:22:__NVIC_SetPriority	16	static
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+../board/peripherals.c:146:13:CTIMER0_init	8	static
+../board/peripherals.c:161:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:170:6:BOARD_InitBootPeripherals	8	static

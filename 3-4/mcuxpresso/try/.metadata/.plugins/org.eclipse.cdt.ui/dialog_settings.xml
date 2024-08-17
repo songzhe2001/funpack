@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="LastUsedSourceTemplate" value="Default C source template"/>
+	<item key="LastUsedHeaderTemplate" value="Default C header template"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="SCANF_FLOAT_ENABLE=1"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="0"/>
+		<item key="askReindex" value="true"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227188"/>
+		<list key="previousPatterns">
+			<item value="tcp_pcb"/>
+			<item value="tim0_IRQ"/>
+			<item value="CTIMER0_IRQHandler"/>
+			<item value="tsi_main_clock_selection_t"/>
+			<item value="tcp_active_pcbs"/>
+			<item value="pcbs"/>
+			<item value="touch_state"/>
+			<item value="masterCallback"/>
+			<item value="i3c_master_callback"/>
+			<item value="BOARD_InitPins"/>
+			<item value="TCP_Echo_Init"/>
+		</list>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_HEIGHT" value="440"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_X_ORIGIN" value="1236"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_Y_ORIGIN" value="622"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+	</section>
+</section>

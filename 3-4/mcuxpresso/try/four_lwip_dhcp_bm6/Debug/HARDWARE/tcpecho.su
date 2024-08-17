@@ -1,0 +1,10 @@
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\drivers/fsl_gpio.h:358:20:GPIO_PortSet	16	static
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\drivers/fsl_gpio.h:373:20:GPIO_PortClear	16	static
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\drivers/fsl_gpio.h:411:24:GPIO_PinRead	16	static
+../HARDWARE/tcpecho.c:24:14:tcpecho_recv	40	static
+../HARDWARE/tcpecho.c:92:6:tim1_net_task	16	static
+../HARDWARE/tcpecho.c:105:6:tim2_net_task	16	static
+../HARDWARE/tcpecho.c:118:6:tim3_net_task	16	static
+../HARDWARE/tcpecho.c:131:6:tim4_net_task	16	static
+../HARDWARE/tcpecho.c:145:14:tcpecho_accept	24	static
+../HARDWARE/tcpecho.c:153:6:TCP_Echo_Init	16	static

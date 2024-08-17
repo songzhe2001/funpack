@@ -1,0 +1,5 @@
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\TWO_lwip_dhcp_bm\drivers/fsl_clock.h:1389:20:CLOCK_EnableClock	24	static
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\TWO_lwip_dhcp_bm\drivers/fsl_port.h:355:20:PORT_SetPinConfig	32	static
+F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\TWO_lwip_dhcp_bm\drivers/fsl_port.h:639:20:PORT_DisableEFTDetectInterrupts	16	static
+../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:79:6:BOARD_InitPins	56	static

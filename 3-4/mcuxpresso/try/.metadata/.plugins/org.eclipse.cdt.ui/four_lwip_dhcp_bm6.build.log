@@ -1,0 +1,11 @@
+14:26:36 **** Incremental Build of configuration Debug for project four_lwip_dhcp_bm6 ****
+make -r -j16 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "four_lwip_dhcp_bm6.axf"; # arm-none-eabi-objcopy -v -O binary "four_lwip_dhcp_bm6.axf" "four_lwip_dhcp_bm6.bin" ; # checksum -p MCXN947 -d "four_lwip_dhcp_bm6.bin";
+   text	   data	    bss	    dec	    hex	filename
+ 114768	     64	  58760	 173592	  2a618	four_lwip_dhcp_bm6.axf
+ 
+
+14:26:37 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

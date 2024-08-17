@@ -1,0 +1,11 @@
+11:58:11 **** Incremental Build of configuration Debug for project five2 ****
+make -r -j16 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "five2.axf"; # arm-none-eabi-objcopy -v -O binary "five2.axf" "five2.bin" ; # checksum -p MCXN947 -d "five2.bin";
+   text	   data	    bss	    dec	    hex	filename
+  89492	     28	  58548	 148068	  24264	five2.axf
+ 
+
+11:58:11 Build Finished. 0 errors, 0 warnings. (took 343ms)
+

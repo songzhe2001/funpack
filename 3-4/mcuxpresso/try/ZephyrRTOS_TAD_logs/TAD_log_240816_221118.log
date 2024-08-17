@@ -1,0 +1,10 @@
+"Task Aware Debugger for GDB" version 11.9.1 (202403060848)
+Copyright 2016-2023 NXP
+==================================
+22:09:59.951 INFO: [ZephyrRTOS] .config file could not be read [F:\ku\MCUXpresso\program\ying_he\funpack3_4\try\four_lwip_dhcp_bm6\Debug\.config (系统找不到指定的文件。)]
+22:09:59.951 INFO: [TadModel] DSF session ID 18 has started.
+22:10:07.701 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+22:10:07.711 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+22:10:09.187 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+22:10:09.222 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+22:11:18.241 INFO: [TadModel] DSF session ID 18 has ended.
